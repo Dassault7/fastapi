@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+bcrypt
+sqlalchemy
+python-multipart
+python-jose
