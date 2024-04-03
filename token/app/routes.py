@@ -1,5 +1,3 @@
-from datetime import timedelta
-
 from sqlalchemy.orm import Session
 from fastapi import APIRouter, HTTPException, Depends, status
 from fastapi.security import OAuth2PasswordRequestForm
